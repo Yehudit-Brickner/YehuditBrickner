@@ -2,7 +2,7 @@
 
 ## Hi I'm Yehudit Brickner
 
-#### I am currently a third year student at Ariel university studying computer sciense and mathmatics
+#### I am currently a third year student at Ariel university studying computer science and mathematics
 
 ### languages and tools
  - python, java, C, C++
